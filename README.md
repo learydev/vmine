@@ -1,2 +1,5 @@
 # vmine
-Vietnamese Minecraft
+Vietnamese Minecraft Server
+----------------------------
+TÍNH NĂNG
+- Towny: giúp bảo vệ vùng đất
